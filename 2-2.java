@@ -1,3 +1,4 @@
+// https://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP
 class MaxSumSubArrayOfSizeK {
   public static int findMaxSumSubArray(int k, int[] arr) {
     int absMaxSum = 0;
