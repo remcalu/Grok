@@ -32,7 +32,6 @@ class MissingNumber {
       }
     }
 
-    System.out.println("\n");
     return -1;
   }
 }
